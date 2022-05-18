@@ -1,0 +1,13 @@
+#+title: Prvnikrucky
+* Obsah:
+
+* Trošku teorie
+    Než začneme používat Doom Emacs, budeme potřebovat teorii o klávesách a jejich zkratkách.
+        Takže:
+         - C -- Zkratka pro klávesu Control
+         - M -- Zkratka pro klávesu Alt, na macu Option.
+         - S -- Zkratka pro takzvanou Super key, většinou klávesa Windows, na macu klávesa Command.
+         - SPC -- Zkratka pro klávesu Space neboli Mezera, používá se při většině akcí.
+
+
+* První spuštění Doom Emacs
