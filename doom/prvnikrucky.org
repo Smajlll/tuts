@@ -11,3 +11,4 @@
 
 
 * První spuštění Doom Emacs
+Po prvním spuštění emacs [[https://github.com/Smajlll/tuts/blob/master/doom/obr1.png]]
