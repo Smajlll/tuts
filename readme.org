@@ -1,0 +1,21 @@
+* Obsah :toc:
+- [[#proč-jsem-vytvořil-tento-repositář][Proč jsem vytvořil tento repositář?]]
+- [[#jak-funguje-tento-repositář-nebo-bych-alespoň-chtěl-aby-fungoval][Jak funguje tento repositář (nebo bych alespoň chtěl aby fungoval)]]
+- [[#poděkování-a-kontributoři][Poděkování a Kontributoři]]
+
+* Proč jsem vytvořil tento repositář?
+  Protože si myslím že není na internetu dost českých návodů pro linux. Ani máme zde kanály jako Linux pro Začátečníky, ale někomu se prostě nechce koukat na videa. Proto vytvářím tento repositář. Pokud by měl někdo jákékoli otázky/připomínky napište mi na email vit.smolik2@gmail.com Děkuji.
+
+
+* Jak funguje tento repositář (nebo bych alespoň chtěl aby fungoval)
+    Pro každý program bude složka, například pro Doom Emacs bude složka doom a v každé složce bude jeden popřípadně více .org souborů, takže například pro instalaci Doom Emacs bude soubor instalaace.org ve složce doom. Pokud bude pro každý systém jiný postup, bude před názvem NÁZEVOS_návod.org, takže pokud by byla instalace Doom Emacs pro každý systém jiný, budou ve složce doom 3 soubory a to win_instalace.org, mac_instalace.org a linux_instalace.org.
+
+
+* Poděkování a Kontributoři
+    Rád bych poděkoval všem kontributorům:
+                    -- Zatím sem kontributuji pouze já, pokud se chceš přidat, vytvoř si Pull Request, rád sem každého přivítám
+
+    Tvůrce: Vít Smolík a.k.a Smajl/SmajlWasHere
+    Kontakt: Osobní Mail: vit.smolik2@gmail.com
+             Pracovní Email: smolikv@newtly.eu
+             Discord: Smajl#3337
