@@ -1,6 +1,7 @@
 #+title: Prvnikrucky
 * Obsah:
-
+ - [[Trošku teroie]]
+ - [[První spuštění Doom Emacs]]
 * Trošku teorie
     Než začneme používat Doom Emacs, budeme potřebovat teorii o klávesách a jejich zkratkách.
         Takže:
@@ -11,4 +12,5 @@
 
 
 * První spuštění Doom Emacs
-Po prvním spuštění emacs uvidíte tuto obrazovku [[https://github.com/Smajlll/tuts/blob/master/doom/obr1.png]]
+Po prvním spuštění emacs uvidíte tuto obrazovku [[https://github.com/Smajlll/tuts/blob/master/doom/img/obr1.png]]
+    Pro vytvoření nového souboru zmáčkněte Ctlr+x a poté Ctrl+f, oběví se vám nabídka pro vybrání kam se nový soubor uloží //Sem přidat fotku//, základně se oběvíme v naší domovské složce. Momentálně vytvořím soubor prvnisoubor.org ve své home složce. //Sem fotka//
