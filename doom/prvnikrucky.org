@@ -11,4 +11,4 @@
 
 
 * První spuštění Doom Emacs
-Po prvním spuštění emacs uvidíte tuto obrazovku /n [[https://github.com/Smajlll/tuts/blob/master/doom/obr1.png]]
+Po prvním spuštění emacs uvidíte tuto obrazovku [[https://github.com/Smajlll/tuts/blob/master/doom/obr1.png]]
