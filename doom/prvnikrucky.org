@@ -19,3 +19,14 @@ Po prvním spuštění emacs uvidíte tuto obrazovku [[https://github.com/Smajll
  Pro vytvoření nového souboru zmáčkněte Ctlr+x a poté Ctrl+f, oběví se vám nabídka pro vybrání kam se nový  soubor uloží základně se oběvíme v naší domovské složce. n\ [[https://github.com/Smajlll/tuts/blob/master/doom/img/obr2.png]]
 
 Momentálně vytvořím soubor prvnisoubor.org ve své home složce. [[https://github.com/Smajlll/tuts/blob/master/doom/img/obr3.png]]
+    Po vytvoření souboru uvidíme něco takového:  
+    
+# TODO Sem obrázek --->[[]] 
+Zmáščkneme na klávesnici písmenko "a" a dole se objeví -- INSTERT -- 
+# TODO sem obrázek --->[[]]
+Můžeme začít psát do našeho prázdného dokumentu.
+# TODO sem obrazek ----> [[]]
+
+* Gratulace
+    Právě jste vytvořili svůj první soubor a je na čase se začít učit něco dalšího. Přejděte proto prosím na další dokument: 
+    ## TODO Přidat odkaz na novy soubor.

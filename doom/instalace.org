@@ -35,4 +35,5 @@
     Gratuluji, právě jsi nainstaloval Doom Emacs na svojí linuxovou distribuci! Doporučuji se ti podívat na další kroky, budou zde v repositáři taky. Díky za přečtení!
 
 
+
     --Smajl
