@@ -1,7 +1,7 @@
 * Obsah :toc:
-- [[#instalace-emacs][Instalace Emacs]]
-- [[#instalace-doom-emacs][Instalace Doom Emacs]]
-- [[#gratulace][Gratulace!]]
+ - [[#instalace-emacs][Instalace Emacs]]
+ - [[#instalace-doom-emacs][Instalace Doom Emacs]]
+ - [[#gratulace][Gratulace!]]
 
 * Instalace Emacs
  Instalace samotného Emacs je velice jednoduchá. Stačí napsat do terminálu příkaz pro instalaci emacs.

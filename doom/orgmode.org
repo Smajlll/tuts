@@ -1,0 +1,9 @@
+* Obsah :toc:
+ - [[Co je to vlastně Org Mode?]]
+
+* Co je to vlastně Org Mode?
+    Org mode, je používán při upraavování .org souborů, umožňuje například větvení dokumentů do kapitol a po té do nich přezkakovat přez hyperlinky a ještě mnoho víc.
+
+        Poznámka: Pokud chcte používat org mode, ale ne doomm emacs, můžete si stáhnout rozšíření do VS code  
+
+
