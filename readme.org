@@ -13,7 +13,7 @@
 
 * Poděkování a Kontributoři
     Rád bych poděkoval všem kontributorům:
-                    -- Zatím sem kontributuji pouze já, pokud se chceš přidat, vytvoř si Pull Request, rád sem každého přivítám
+                    -- Zatím sem kontributuji pouze já, pokud se chceš přidat, vytvoř si Pull Request, rád sem každého přivítám :D
 
     Tvůrce: Vít Smolík a.k.a Smajl/SmajlWasHere
     Kontakt: Osobní Mail: vit.smolik2@gmail.com
